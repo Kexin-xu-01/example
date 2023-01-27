@@ -1,3 +1,4 @@
 # example
 Imperial Graduate School - Learning About Git
-Addedstuff
+Added stuff (fixed)
+
